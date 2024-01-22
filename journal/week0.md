@@ -15,3 +15,6 @@
 :white_check_mark: Recreate logical architecture diagram
 
 ![image](https://github.com/migueldcdev/portfolio-images/blob/main/Cloud%20Architecture.png)
+
+## Notes
+- trufflehog
